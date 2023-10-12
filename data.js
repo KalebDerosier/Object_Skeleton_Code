@@ -8,7 +8,7 @@ let stolenItems = [
   shoelaces: 4,
   rotisserie_chicken:1
 },
-
+return stolenItemsTotal(10)
 {
   socks: 2,
   spoons: 2,
@@ -17,7 +17,7 @@ let stolenItems = [
   shoelaces: 4, 
   rotisserie_chicken: 2
 },
-  
+  return luckyYou(0) 
 {
   socks: 0,
   spoons: 0,
@@ -26,7 +26,7 @@ let stolenItems = [
   shoelaces: 0,
   rotisserie_chicken: 0
 },
-
+return stolenItemTotal(32)
   {
   socks: 2,
   spoons: 10,
@@ -35,7 +35,7 @@ let stolenItems = [
   shoelaces: 12,
   rotisserie_chicken: 0
 }, 
-  
+  return stolenItemTotal(31)
 {
   socks: 12,
   spoons: 17,
@@ -44,7 +44,7 @@ let stolenItems = [
   shoelaces: 0,
   rotisserie_chicken: 0
 },
-
+return stolentItemTotal(2)
 {
   socks: 0,
   spoons: 0,
@@ -53,7 +53,7 @@ let stolenItems = [
   shoelaces: 0,
   rotisserie_chicken: 0
 }, 
-  
+  return stolenItemTotal(9)
 {
   socks: 2,
   spoons: 2,
@@ -62,7 +62,7 @@ let stolenItems = [
   shoelaces: 1,
   rotisserie_chicken: 0
 }, 
-  
+return stolenItemTotal(105)  
 {
   socks: 43,
   spoons: 10,
@@ -71,7 +71,7 @@ let stolenItems = [
   shoelaces: 0,
   rotisserie_chicken: 0
 }, 
-
+return stolenItemTotal(5)
 {
   socks: 0,
   spoons: 2,
@@ -80,6 +80,7 @@ let stolenItems = [
   shoelaces: 0,
   rotisserie_chicken: 0
 }, 
+return stolenItemTotal(14)
 {
   socks: 0,
   spoons: 0,
