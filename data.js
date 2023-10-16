@@ -17,7 +17,7 @@ let stolenItems = [
   shoelaces: 4, 
   rotisserie_chicken: 2
 },
-  
+ return luckyYou =  
 {
   socks: 0,
   spoons: 0,
